@@ -22,4 +22,4 @@ second_name = input("Insert second name >> ")
 surname = input("Insert surname >> ")
 year = int (input("Insert year >> "))
 
-print("{}{}{}{}@{}.com".format(first_name[0], second_name[0], surname, str(year)[2:], url))
+print("Your mail is >> {}{}{}{}@{}.com".format(first_name[0], second_name[0], surname, str(year)[2:], url))
