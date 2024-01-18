@@ -25,8 +25,8 @@ def obtener_tiempo_hasta_hora_deseada(hora, minutos):
 directorio_actual = os.getcwd()
 
 # Hora y minutos deseados
-hora_deseada = 7
-minutos_deseados = 40
+hora_deseada = 00
+minutos_deseados = 00
 
 # Comandos a ejecutar
 comandos = [
